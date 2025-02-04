@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 **Undergraduate Computer Engineering Student**  
 🌱 Passionate about **Computer Architecture**, **Quantum Computing**, **Cryptography**, and **Network Security**
-
+- ⚡ Fun fact: "In a world of bits and qubits, cryptography is the art of turning chaos into order."
 ---
 
 ### 🛠️ Tech Stack
