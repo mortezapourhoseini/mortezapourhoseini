@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm [Morteza] 
+# 👋 Hi, I'm Morteza
 
 🎓 **Undergraduate Computer Engineering Student**  
 🌱 Passionate about **Computer Architecture**, **Quantum Computing**, **Cryptography**, and **Network Security**
@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=minimal)](https://github.com/YOUR_USERNAME)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=minimal)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mortezapourhoseini&show_icons=true&theme=minimal)](https://github.com/mortezapourhoseini)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortezapourhoseini&layout=compact&theme=minimal)](https://github.com/mortezapourhoseini)
 
 ---
 
