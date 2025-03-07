@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Morteza
 
 🎓 **Undergraduate Computer Engineering Student**  
-🌱 Passionate about **Computer Architecture**, **Quantum Computing**, **Cryptography**, and **Network Security**
+🌱 Passionate about **Computer Architecture**, **AI**, **Cryptography**, and **Network Security**
 
-⚡ Fun fact: "In a world of bits and qubits, cryptography is the art of turning chaos into order."
 
 ---
 
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📚 Currently Learning
-- **Quantum Algorithms** | **Cryptography** | **Network Protocols**  
+- **AI Algorithms** | **Cryptography** | **Network Protocols**  
 - Exploring the intersection of hardware and software.
 
 ---
@@ -53,4 +52,4 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Let's Connect  
-🔗 [![mortezapourhosseini01@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+🔗 [![mortezapourhosseini01@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mortezapourhosseini01@gmail.com)  
