@@ -53,3 +53,4 @@ Here are some ideas to get you started:
 
 ### 📫 Let's Connect  
 🔗 [![mortezapourhosseini01@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mortezapourhosseini01@gmail.com)  
+mortezapourhosseini01@gmail.com
