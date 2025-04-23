@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> *"The best way to predict the future is to invent it."*  
+> **— Alan Kay** 
+
 # 👋 Hi, I'm Morteza
 
 🎓 **Undergraduate Computer Engineering Student**  
@@ -42,12 +45,6 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mortezapourhoseini&show_icons=true&theme=minimal)](https://github.com/mortezapourhoseini)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortezapourhoseini&layout=compact&theme=minimal)](https://github.com/mortezapourhoseini)
-
----
-
-### 💬 Quote I Live By  
-> *"The best way to predict the future is to invent it."*  
-> **— Alan Kay** 
 
 ---
 
