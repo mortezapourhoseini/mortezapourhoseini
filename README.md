@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 > *"The best way to predict the future is to invent it."*  
 > **— Alan Kay** 
+
 
 # 👋 Hi, I'm Morteza
 
 🎓 **Undergraduate Computer Engineering Student**  
 🌱 Passionate about **Computer Architecture**, **AI**, **Cryptography**, and **Network Security**
-
 
 ---
 
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
----
+
 
 ### 📚 Currently Learning
 - **AI Algorithms** | **Cryptography** | **Network Protocols**  
