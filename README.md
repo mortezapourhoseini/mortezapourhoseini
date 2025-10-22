@@ -42,13 +42,5 @@ Here are some ideas to get you started:
 
 ---
 
-### GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mortezapourhoseini&show_icons=true&theme=minimal)](https://github.com/mortezapourhoseini)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortezapourhoseini&layout=compact&theme=minimal)](https://github.com/mortezapourhoseini)
-
----
-
 ### Let's Connect  
-🔗 [![mortezapourhosseini01@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mortezapourhosseini01@gmail.com)  
 mortezapourhosseini01@gmail.com
