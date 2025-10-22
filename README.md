@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # Morteza PourHosseini
 
  **Undergraduate Computer Engineering Student**  
- Passionate about **Machin learning**, **Image processing**and **DIY Enthusiast**
+ Passionate about **Machin learning**, **Image processing** and **DIY Enthusiast**
 
 ---
 
