@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 > **— Alan Kay** 
 
 
-# 👋 Hi, I'm Morteza
+# Morteza PourHosseini
 
-🎓 **Undergraduate Computer Engineering Student**  
-🌱 Passionate about **Computer Architecture**, **AI**, **Cryptography**, and **Network Security**
+ **Undergraduate Computer Engineering Student**  
+ Passionate about **Machin learning**, **Image processing**and **DIY Enthusiast**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
@@ -36,19 +36,19 @@ Here are some ideas to get you started:
 
 
 
-### 📚 Currently Learning
-- **AI Algorithms** | **Cryptography** | **Network Protocols**  
+### Currently Learning
+- **supervised ML Algorithms** | **raspberry pi and building a robot** | **Network Protocols**  
 - Exploring the intersection of hardware and software.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mortezapourhoseini&show_icons=true&theme=minimal)](https://github.com/mortezapourhoseini)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortezapourhoseini&layout=compact&theme=minimal)](https://github.com/mortezapourhoseini)
 
 ---
 
-### 📫 Let's Connect  
+### Let's Connect  
 🔗 [![mortezapourhosseini01@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mortezapourhosseini01@gmail.com)  
 mortezapourhosseini01@gmail.com
