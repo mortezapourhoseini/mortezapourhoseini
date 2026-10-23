@@ -48,4 +48,4 @@ Available part-time (flexible hours alongside my M.Sc.) — open to remote and f
 
 📫 mortezapourhosseini01@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/mortezapourhosseini)
-🌐 [Portfolio](https://claude.ai/code/artifact/4642b5f7-e285-4bcf-8744-c93f5d3161bf)
+🌐 [Portfolio](https://mortezapourhoseini.github.io)
