@@ -1,14 +1,16 @@
 ### Hi, I'm Morteza 👋
 
-**Computer Vision & Edge AI Engineer.**
+**Embedded & Edge AI Developer · Computer Vision.**
 M.Sc. student in Computer Systems Architecture (Tarbiat Modares University). I build vision models — then make them fast, small, and reliable enough to run *offline*, on real hardware: Raspberry Pi, microcontrollers, and other resource-constrained devices.
+
+Available part-time (flexible hours alongside my M.Sc.) — open to remote and freelance work.
 
 ---
 
 ### What I work on
 
-- 🎯 Real-time object detection & segmentation — YOLO, OpenCV, classical and deep-learning pipelines
 - ⚙️ Deploying and optimizing models for edge hardware — low-latency inference under tight memory and compute budgets
+- 🎯 Real-time object detection & segmentation — YOLO, OpenCV, classical and deep-learning pipelines
 - 🔬 Applied CV for hard problems — medical image segmentation, feature matching, face preprocessing
 
 ---
