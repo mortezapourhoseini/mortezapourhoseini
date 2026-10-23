@@ -1,45 +1,49 @@
+### Hi, I'm Morteza 👋
 
-
-
-> *"The best way to predict the future is to invent it."*  
-> **— Alan Kay** 
-
-
-# Morteza PourHosseini
-
- **Undergraduate Computer Engineering Student.**  
- I build edge inference systems (micro controllers and rpi), practical CV/ML tutorials, and useful automation (bots & utilities).
+**Computer Vision & Edge AI Engineer.**
+M.Sc. student in Computer Systems Architecture (Tarbiat Modares University). I build vision models — then make them fast, small, and reliable enough to run *offline*, on real hardware: Raspberry Pi, microcontrollers, and other resource-constrained devices.
 
 ---
 
-### Tech Stack
+### What I work on
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-
-
-
-### Currently Learning
-- **ML Algorithms** | **raspberry pi and building a robot** | **Network Protocols**  
-- Exploring the intersection of hardware and software.
-
---- 
-
-### some of my projects
-
-- [sentinel-pi](https://github.com/mortezapourhoseini/sentinel-pi) — Lightweight person-detection system optimized for Raspberry Pi 3B+ with YOLO inference and low-latency web streaming.  
-- [FaceCrop-Pro](https://github.com/mortezapourhoseini/FaceCrop-Pro) — Face-cropping and preprocessing pipeline for building clean face datasets and ML workflows.  
-- [Ketab_baz_telegram_bot](https://github.com/mortezapourhoseini/Ketab_baz_telegram_bot) — Telegram bot that recommends books and poetry (production-ready bot with datasets and handlers).  
-- [SIFT-Feature-Detection-and-Matching-Tutorial](https://github.com/mortezapourhoseini/SIFT-Feature-Detection-and-Matching-Tutorial) — Practical SIFT tutorial (notebooks) showing detection, description, and matching with real examples.  
-- [Genetic-algorithm](https://github.com/mortezapourhoseini/Genetic-algorithm) — Collection of genetic algorithm experiments and optimization examples.  
-- [Breakout-Game-AI](https://github.com/mortezapourhoseini/Breakout-Game-AI) — Reinforcement-learning agent for the Breakout game (training & evaluation code).
+- 🎯 Real-time object detection & segmentation — YOLO, OpenCV, classical and deep-learning pipelines
+- ⚙️ Deploying and optimizing models for edge hardware — low-latency inference under tight memory and compute budgets
+- 🔬 Applied CV for hard problems — medical image segmentation, feature matching, face preprocessing
 
 ---
 
-### Let's Connect  
-mortezapourhosseini01@gmail.com
+### Tech stack
 
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
 
+### Currently learning
 
+- Model quantization & edge deployment frameworks — TensorFlow Lite, ONNX Runtime
+- PyTorch, for training and fine-tuning custom models
 
+---
 
+### Featured projects
+
+- **[sentinel-pi](https://github.com/mortezapourhoseini/sentinel-pi)** — Real-time person detection on Raspberry Pi 3B+, built around YOLO inference and low-latency web streaming.
+- **[FaceCrop-Pro](https://github.com/mortezapourhoseini/FaceCrop-Pro)** — Face-cropping and preprocessing pipeline for building clean, ML-ready face datasets.
+- **[SIFT-Feature-Detection-and-Matching-Tutorial](https://github.com/mortezapourhoseini/SIFT-Feature-Detection-and-Matching-Tutorial)** — Practical, notebook-based walkthrough of classical feature detection and matching.
+- **Brain tumor segmentation** (classical morphological operations) — applied medical-imaging project; repo coming soon.
+
+### Other projects
+
+- **[Genetic-algorithm](https://github.com/mortezapourhoseini/Genetic-algorithm)** — optimization experiments
+- **[Breakout-Game-AI](https://github.com/mortezapourhoseini/Breakout-Game-AI)** — a reinforcement-learning agent
+- More in my [repositories tab](https://github.com/mortezapourhoseini?tab=repositories)
+
+---
+
+### Let's connect
+
+📫 mortezapourhosseini01@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/mortezapourhosseini)
+🌐 [Portfolio](https://claude.ai/code/artifact/4642b5f7-e285-4bcf-8744-c93f5d3161bf)
