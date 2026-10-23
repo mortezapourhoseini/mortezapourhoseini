@@ -34,7 +34,7 @@ Available part-time (flexible hours alongside my M.Sc.) — open to remote and f
 - **[sentinel-pi](https://github.com/mortezapourhoseini/sentinel-pi)** — Real-time person detection on Raspberry Pi 3B+, built around YOLO inference and low-latency web streaming.
 - **[FaceCrop-Pro](https://github.com/mortezapourhoseini/FaceCrop-Pro)** — Face-cropping and preprocessing pipeline for building clean, ML-ready face datasets.
 - **[SIFT-Feature-Detection-and-Matching-Tutorial](https://github.com/mortezapourhoseini/SIFT-Feature-Detection-and-Matching-Tutorial)** — Practical, notebook-based walkthrough of classical feature detection and matching.
-- **Brain tumor segmentation** (classical morphological operations) — applied medical-imaging project; repo coming soon.
+- **[Morphology-based Brain Tumor Segmentation](https://github.com/mortezapourhoseini/Morphology_based_Brain_Tumor_segmentation)** — Segments brain tumors in FLAIR MRI with classical morphology only (no deep model): top-hat skull removal, thresholding, and connected components.
 
 ### Other projects
 
